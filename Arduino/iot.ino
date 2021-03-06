@@ -125,7 +125,7 @@ unsigned long tNow;
     }   
   }
   else{
-    Serial.print("No Client are available");
+    Serial.print("No available Client");
   }
 }
 
